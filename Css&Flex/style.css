@@ -115,5 +115,11 @@
      .cancel:hover {
              color: var(--desaturated-blue);
      }
-             
+     .attribution {
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }  
      

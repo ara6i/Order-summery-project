@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ara6i/Order-summery-project.git
+- Live Site URL: https://ara6i.github.io/Order-summery-project/
 
 ## My process
 

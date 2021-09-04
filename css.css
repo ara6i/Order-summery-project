@@ -122,4 +122,14 @@
       .attribution a {
         color: hsl(228, 45%, 44%);
       }  
+.price-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.plan-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
      

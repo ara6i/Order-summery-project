@@ -133,5 +133,16 @@
     gap: 1rem;
 }
 
+@media screen and (min-width: 376px) and (max-width: 1440px) {
+  body {
+    background: url("../images/pattern-background-desktop.svg") top/contain
+      no-repeat;
+    background-color: var(--background-color);
+  }
+
+  .main-container {
+    width: 90%;
+  }
+}
 
      
